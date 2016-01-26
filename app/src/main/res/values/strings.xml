@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Testing_Using_Espresso</string>
+    <string name="action_settings">Settings</string>
+</resources>
